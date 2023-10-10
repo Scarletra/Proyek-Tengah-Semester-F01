@@ -2,7 +2,7 @@
 
 ## 🌟 Anggota Kelompok F-01 
 * [Muhammad Hilmy Erryanto](https://github.com/m-hilmy-erryanto) (2206025905)
-* [Fernando Valentino Sitinjak] (2206081332)
+* [Fernando Valentino Sitinjak](https://github.com/Scarletra) (2206081332)
 * [Fathirahma Alyssa Pristanti](https://github.com/alyssapristanti) (2206082215)
 * [Chika Marsya Diandra Lumban Gaol](https://github.com/chikamarsyaa) (2206083344)
 * [Pradipta Arya Pramudita](https://github.com/Pradiptaa) (2206083685)
